@@ -1,1 +1,1 @@
-https://create-a-coach.web.app/coaches 
+https://create-a-coach.web.app
